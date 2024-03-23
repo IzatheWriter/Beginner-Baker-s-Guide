@@ -7,8 +7,6 @@ nav_order: 2
 
 Below you will find a list of products which are used for baking any type of cake or pastry:
 
-###
-
 -	flour
 -	potato starch
 -	eggs 
