@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Substitutes
 layout: default
 nav_order: 3
 has children: true
