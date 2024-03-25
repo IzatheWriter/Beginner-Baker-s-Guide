@@ -28,3 +28,6 @@ A list of the baking tools:
 -	a toothpick or a paring knife
 
 You can read more about each tool in the separate sections of this guide.
+
+
+![Alt text](small_size_baking_tools.jpg)

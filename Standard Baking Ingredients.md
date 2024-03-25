@@ -5,6 +5,8 @@ nav_order: 2
 ---
 
 
+<h1>Standard Baking Ingredients</h1>
+
 Below you will find a list of products which are used for baking any type of cake or pastry:
 
 -	flour
@@ -18,3 +20,6 @@ Below you will find a list of products which are used for baking any type of cak
 -	salt 
 
 You would normally have most of them at home, so it only proves how little you need to bake a simple sweet treat.
+
+
+![Alt text](bigger_size_baking_ingredients.jpg)
