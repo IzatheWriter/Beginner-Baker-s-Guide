@@ -2,6 +2,7 @@
 title: Substitutes
 layout: default
 nav_order: 3
+has _children: true
 ---
 
 
