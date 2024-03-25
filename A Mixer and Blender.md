@@ -2,7 +2,7 @@
 title: A Mixer and Blender
 layout: default
 nav_order: 6
-parent: Tools
+has_children: true
 ---
 
 
