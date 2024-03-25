@@ -20,7 +20,6 @@ If you want to learn more about the basics, keep on reading for just a few more 
 
 This guide will discuss the following:
 
-###
 
 1. the usual ingredients used for baking
 2. the substitutes for these ingredients if you’re an allergic or follow a specific diet 
@@ -30,4 +29,5 @@ This guide will discuss the following:
 
 Follow the sections on the left side of the page and enjoy this baking adventure! 
 
-[insert an image “a young girl cooking”]
+
+![Alt text](small_size_young_girl_cooking.jpg)
