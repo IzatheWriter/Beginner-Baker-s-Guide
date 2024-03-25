@@ -6,6 +6,8 @@ has _children: true
 ---
 
 
+<h1>Ingredients Substitutes</h1>
+
 If you are allergic to some of the ingredients, follow a specific diet (e.g. vegan) or just want to bake a healthier version of your cake, have a look at some general guidelines for ingredients substitutes.
 
 
