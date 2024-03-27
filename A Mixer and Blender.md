@@ -1,7 +1,7 @@
 ---
-title: Tools
+title: A Mixer or Blender
 layout: default
-parent: A Mixer or Blender
+parent: Tools
 nav_order: 1
 ---
 
