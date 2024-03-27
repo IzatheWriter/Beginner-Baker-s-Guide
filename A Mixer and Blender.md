@@ -1,9 +1,10 @@
 ---
-title: A Mixer or Blender
+title: Tools
 layout: default
-nav_order: 6
-has _children: true
+parent: A Mixer or Blender
+nav_order: 1
 ---
+
 
 
 **A mixer**
