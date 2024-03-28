@@ -2,7 +2,7 @@
 title: Baking Forms
 layout: default
 parent: Tools
-nav_order: 2
+nav_order: 7
 ---
 
 <h1>Baking forms</h1>
