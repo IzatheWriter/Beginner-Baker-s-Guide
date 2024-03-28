@@ -2,7 +2,6 @@
 title: Tools
 layout: default
 nav_order: 5
-has _children: true
 ---
 
 

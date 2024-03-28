@@ -1,7 +1,6 @@
 ---
 title: Baking Forms
 layout: default
-parent: Tools
 nav_order: 7
 ---
 
