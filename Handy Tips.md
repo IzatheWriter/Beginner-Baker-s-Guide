@@ -2,7 +2,6 @@
 title: Handy Tips
 layout: default
 nav_order: 4
-has _children: true
 ---
 
 
