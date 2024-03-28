@@ -1,8 +1,8 @@
 ---
 title: Baking Forms
 layout: default
-parent: Tools
-nav_order: 2
+nav_order: 7
+has_children: true
 ---
 
 <h1>Baking forms</h1>
