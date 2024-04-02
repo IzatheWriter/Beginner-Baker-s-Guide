@@ -7,7 +7,7 @@ nav_order: 8
 
 <h1>Pots Bowls and Sieves</h1>
 
-**A saucepan**
+**Saucepan**
 
 Sometimes the recipe will ask you to melt the butter, honey, cream or heat the milk. The best and the most convenient way is to use a saucepan or a small pot of your choice.
 
@@ -15,7 +15,7 @@ Sometimes the recipe will ask you to melt the butter, honey, cream or heat the m
 ![Alt text](<small size_saucepan_pexels.jpg>)
 
 
-**A sieve**
+**Sieve**
 
 A sieve is an optional tool. You can skip it if you want to. However, when you sift flour, powdered sugar and other dry ingredients, it will make the muffins lighter and you will avoid flour lumps in your batter.
 

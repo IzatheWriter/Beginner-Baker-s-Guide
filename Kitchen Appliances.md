@@ -6,11 +6,11 @@ nav_order: 6
 
 
 
-**A mixer**
+**Mixer**
 
 This is the fastest and the most convenient way to combine all ingredients. It will save you a lot of muscle work and time. The order and the speed of mixing your ingredients will vary depending on the cake you are baking. The recipe should provide you with all the guidelines.
 
-**A blender**
+**Blender**
 
 If you’re baking a small cake or the recipe calls for combing a small number of ingredients before adding them to the dough, a blender is a useful tool. You can also use it for crushing nuts, mashing chickpeas or bananas. 
 However, this tool does not have enough power to knead a dough if it’s bigger or a bread.
@@ -26,7 +26,7 @@ If you don't owe any of these tools, you can check out the links below and purch
 
 [Hurom Blender: Hurom Hexa Power High Speed Blender](https://www.hurom.com/products/hurom-hexa-power-high-speed-blender) 
 
-**A kitchen scale**
+**Kitchen scale**
 
 A kitchen scale is very useful for measuring your ingredients in grams and/or litres, it’s a great investment and can also help you out if you follow a specific diet and need to keep track of your meal portions.
 
