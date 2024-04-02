@@ -1,5 +1,5 @@
 ---
-title: A Mixer or Blender
+title: Kitchen Appliances
 layout: default
 nav_order: 6
 ---
@@ -25,3 +25,9 @@ If you don't owe any of these tools, you can check out the links below and purch
 [Vitamix Blender: Super Pro 750 Copper Metal Finish](https://www.bestblender.pl/blender-vitamix-professional-series-750/)
 
 [Hurom Blender: Hurom Hexa Power High Speed Blender](https://www.hurom.com/products/hurom-hexa-power-high-speed-blender) 
+
+**A kitchen scale**
+
+A kitchen scale is very useful for measuring your ingredients in grams and/or litres, it’s a great investment and can also help you out if you follow a specific diet and need to keep track of your meal portions.
+
+![Alt text](<kitchen scale.jpg>)
