@@ -9,7 +9,6 @@ nav_order: 6
 <h1>Kitchen Appliances</h1>
 
 
-
 **Mixer**
 
 This is the fastest and the most convenient way to combine all ingredients. It will save you a lot of muscle work and time. The order and the speed of mixing your ingredients will vary depending on the cake you are baking. The recipe should provide you with all the guidelines.
