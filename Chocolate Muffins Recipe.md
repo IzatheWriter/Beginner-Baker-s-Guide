@@ -10,10 +10,11 @@ nav_order: 10
 
 There are many variations of the muffins – they can go well with fruits, cream cheese or any other sweet additions. This recipe focuses on chocolate muffins.
 
-This recipe serves 12 muffins.
-Preparation time: 10 minutes
-Baking time: 20-25 minutes
-Level: easy
+- This recipe serves 12 muffins.
+- Preparation time: 10 minutes
+- Baking time: 20-25 minutes
+- Level: easy
+
 
 ![Alt text](small_size_chocolate_muffins3jpg.jpg)
 
