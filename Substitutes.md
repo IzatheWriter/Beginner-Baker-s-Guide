@@ -17,11 +17,11 @@ If you are vegan you can also try: chickpea flour, almond flour, gluten-free mix
 You can read more about it under this link: [Best Flour Substitutions](https://www.bbcgoodfood.com/howto/guide/best-flour-substitutions)
 
 
-**MILK** – there are PLENTY types of milk so depending on your dietary preferences there’s: cow milk, soya milk, oat milk, plant milk, canned coconut milk.
+**MILK** – there are PLENTY types of milk so depending on your dietary preferences there are: cow milk, soya milk, oat milk, plant milk, canned coconut milk.
 
 If you don’t drink milk at all, you can use yoghurt (natural, Greek), buttercream, sour cream.
 
-Under this link you can read about how much of each replaced product you should use in your recipe: [Milk Substitutes for Baking](https://www.delish.com/cooking/a38422869/whole-milk-substitutes-for-baking/) 
+You can read about how much of each replaced product you should use in your recipe: [Milk Substitutes for Baking](https://www.delish.com/cooking/a38422869/whole-milk-substitutes-for-baking/) 
 
 **SUGAR** – you can use granulated white or brown sugar, caster sugar, coconut sugar or for a healthier version: xylitol and sweeteners (e.g. Stevia).
 

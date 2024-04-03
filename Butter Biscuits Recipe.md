@@ -9,7 +9,7 @@ nav_order: 11
 <h1>Butter biscuits</h1>
 
 
-This really simple biscuit recipe will teach you how to make basic shortcrust pastry. It takes a bit more time but the results are delicious. These cookies are served without any additions, but it’s possible to add cocoa to the dough or top it with some marmalade. You can read about these additions in the recipe modifications sections. 
+This really simple biscuit recipe will teach you how to make basic shortcrust pastry. It takes a bit more time but the results are delicious. These cookies are served without any additions, but it’s possible to add cocoa to the dough or top it with some marmalade. You can read about these additions in the recipe modifications section. 
 
 ![Alt text](small_size_butter_biscuits.jpg)
 
@@ -23,9 +23,9 @@ This really simple biscuit recipe will teach you how to make basic shortcrust pa
 
 **Possible additions:** cocoa, marmalade
 
-**Tools:** two small bowls, table and tea spoons, one large bowl, a bakeboard, a rolling pin, cling film, biscuit cutters or a glass, sieve, baking paper.
+**Tools:** two small bowls, table and tea spoons, one large bowl, a bakeboard, a rolling pin, cling film, biscuit cutters or a glass, a sieve, baking paper.
 
-- This recipe makes around 3 trays of biscuits.
+- This recipe makes: around 3 trays of biscuits.
 - Preparation and baking time: 1,5 h
 - Baking time: 10-20 minutes
 - Level: easy
@@ -64,7 +64,7 @@ This really simple biscuit recipe will teach you how to make basic shortcrust pa
 
 **Cocoa** 
 
-If you don’t like plain butter biscuits, you can use cocoa for a chocolate flavour. You can add 60 g of cocoa to the dough of this recipe.
+If you don’t like plain butter biscuits, you can use cocoa for a chocolate flavour. You can add 60 g of cocoa to the dough in this recipe.
 
 **Marmalade**
 
@@ -72,4 +72,4 @@ Another possibility is to use marmalade. When you are cutting out biscuits from 
 
 **Decorations**
 
-If you have the soul of an artist, you may want to make some extra decorations on the plain butter biscuits. You can use a wooden toothpick or a blunt knife and try out some patterns on the dough before baking to make them more interesting. 
+If you have the soul of an artist, you may want to make some extra decorations on the plain butter biscuits. You can use a wooden toothpick or a blunt knife and try out some patterns on the dough before baking to make them look more interesting. 

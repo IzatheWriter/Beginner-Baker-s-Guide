@@ -9,7 +9,7 @@ nav_order: 1
 
 If you would like to start baking or are looking for a quick guide to bake something simple but delicious, then you’re in the right place!
 
-This Beginner Baker’s Guide will give you an insight into the basics of baking and a chance to try out two simple recipes for: chocolate muffins and butter biscuits.
+This Beginner Baker’s Guide will give you an insight into the basics of baking and a chance to try out two simple recipes for chocolate muffins and butter biscuits.
 
 If you want to jump straight into the recipes, click below:
 

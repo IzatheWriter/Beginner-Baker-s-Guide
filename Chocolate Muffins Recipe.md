@@ -10,7 +10,7 @@ nav_order: 10
 
 There are many variations of the muffins – they can go well with fruits, cream cheese or any other sweet additions. This recipe focuses on chocolate muffins.
 
-- This recipe serves 12 muffins.
+- This recipe serves: 12 muffins.
 - Preparation time: 10 minutes
 - Baking time: 20-25 minutes
 - Level: easy
@@ -21,16 +21,18 @@ There are many variations of the muffins – they can go well with fruits, cream
 
 **A list of ingredients**
 
-3 large eggs
-100 g melted butter
-150 g natural yoghurt
-200 g flour
-120 g icing sugar
-50 g unsweetened natural cocoa powder
-1,5 teaspoon of soda or baking powder
-a pinch of salt
-70 g chocolate (dark, white or milk)
-Tools: a mixer, a muffin pan, sieve, two tall bowls, tea and table spoons, a toothpick or a paring knife
+- 3 large eggs
+- 100 g melted butter
+- 150 g natural yoghurt
+- 200 g flour
+- 120 g icing sugar
+- 50 g unsweetened natural cocoa powder
+- 1,5 teaspoon of soda or baking powder
+- a pinch of salt
+- 70 g chocolate (dark, white or milk)
+
+
+**Tools:** a mixer, a saucepan, a muffin pan, a sieve, two tall bowls, tea and table spoons, a toothpick or a paring knife.
 
 **Instructions**
 
@@ -41,7 +43,7 @@ Tools: a mixer, a muffin pan, sieve, two tall bowls, tea and table spoons, a too
 5. Use the table spoon to mix all dry ingredients.
 6. Put the bowl aside.
 7. Take the saucepan (or a small pot) and put in the butter.
-8. Melt the butter in the saucepan stirring all the time with a spoon so it doesn’t burn
+8. Melt the butter in the saucepan stirring all the time with a spoon so it doesn’t burn.
 9. When the butter is melted put it aside to cool down.
 10. Take the second large bowl.
 11. Crack in eggs, add in yoghurt and pour in cooled down melted butter.
@@ -54,11 +56,11 @@ Tools: a mixer, a muffin pan, sieve, two tall bowls, tea and table spoons, a too
 18. Take a table spoon and only fill HALF of each muffin cup.
 19. Place one piece of chocolate in it and cover it with the dough to fill the entire cup.
 20. Repeat for every cup.
-21. When you fill in the entire muffin pan, put it in the pre-heated (180C) oven.
+21. When you fill in the entire muffin pan, put it in the pre-heated (180 C) oven.
 22. Bake for around 20-25 minutes. Top and bottom heat function.
 23. Insert a toothpick or a paring knife into the centre of the cake to see if the crumb has set. The toothpick or knife should come out dry if the muffins are ready.
 24. Take out the muffins out from the oven and leave them for around 15 minutes in the pan to cool down.
-25.When they cool down, take them out of the pan onto a plate. They are ready to eat.
+25. When they cool down, take them out of the pan onto a plate. They are ready to eat.
 
 **Possible modifications**
 

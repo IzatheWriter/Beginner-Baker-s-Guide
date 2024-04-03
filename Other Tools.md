@@ -16,16 +16,16 @@ When you bake you will probably form the dough on the bakeboard. This will work 
 
 **Rolling pin** 
 
-Most probably you have one wooden rolling pin at home. If not, or you’re on holidays but still want to bake something, you can always use a plastic bottle of water or a bottle of wine. Just remove the label and wash the bottle as it will have contact with the food.
+Most probably you have one wooden rolling pin at home. If not, or you’re on holidays but still want to bake something, you can always use a plastic bottle of water or a bottle of wine. Just remove the label and wash the bottle as it will have contact with food.
 
 
 **A teaspoon and a table spoon**
 
-A teaspoon and a table spoon - to measure the ingredients properly, especially when you don't owe a kitchen scale. Many recipes still use this way of measuring ingredients.
+They are often used to measure the ingredients properly, especially when you don't owe a kitchen scale. Many recipes still use this way of measuring ingredients.
 
 **A wooden / silicone spatula**
 
-A wooden / silicone spatula - if you have a spatula made of wood or silicone, it would prevent your pots and the muffin pan from scratching when you operate with the dough or melt in butter with cocoa.
+Whichever tool you use to mix your ingredients it would be fine. However, wood and silicone prevent your pots and the muffin pan from scratching when you operate with the dough or melt in butter with cocoa.
 
 **Baking paper**
 
@@ -36,9 +36,9 @@ If you don’t want to use baking paper, you can also grease the baking tin with
 
 **Cling film**
 
-Cling film is useful if you work with a sticky type of dough. You can use it on the bakeboard of wrap the rolling pin it. Another option is to sprinkle flour on the bakeboard or the pin, but you must be careful because using too much flour can make the dough to dry or too hard. 
+Cling film is useful if you work with a sticky type of dough. You can use it on the bakeboard or wrap it around the rolling pin. Another option is to sprinkle flour on the bakeboard or the rolling pin, but you must be careful because using too much flour can make the dough too dry or too tough. 
 
 
 **A toothpick or a paring knife**
 
-It may sound funny, but these simple tools will allow you to check if your cake is fully baked. It may happen that the cake does change the colour into brown and looks ready in the oven but inside it is still raw. Hence, you will need a toothpick or a knife to insert inside the cake. If it comes out dry, the cake is baked. If you can see some bits of raw dough on it then it means the cake needs a few more minutes in the oven. Just wait and use the clean knife or toothpick again to check the cake.
+It may sound funny, but these simple tools will allow you to check if your cake is fully baked. It may happen that the cake does change the colour into brown and looks ready from the outside but inside it is still raw. Hence, you will need a toothpick or a knife to insert inside the cake. If it comes out dry, the cake is baked. If you can see some bits of raw dough on it then it means the cake needs a few more minutes in the oven. Just wait and use the clean knife or toothpick again to check the cake.

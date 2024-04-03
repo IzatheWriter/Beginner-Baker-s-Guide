@@ -15,8 +15,8 @@ This is the fastest and the most convenient way to combine all ingredients. It w
 
 **Blender**
 
-If you’re baking a small cake or the recipe calls for combing a small number of ingredients before adding them to the dough, a blender is a useful tool. You can also use it for crushing nuts, mashing chickpeas or bananas. 
-However, this tool does not have enough power to knead a dough if it’s bigger or a bread.
+If you’re baking a small cake or the recipe calls for combining a small number of ingredients before adding them to the dough, a blender is a useful tool. You can also use it for crushing nuts, mashing chickpeas or bananas. 
+However, this tool does not have enough power to knead a dough, if it’s bigger, or bread dough.
 
 If you don't owe any of these tools, you can check out the links below and purchase some good quality kitchen appliances:
 
@@ -31,6 +31,6 @@ If you don't owe any of these tools, you can check out the links below and purch
 
 **Kitchen scale**
 
-A kitchen scale is very useful for measuring your ingredients in grams and/or litres, it’s a great investment and can also help you out if you follow a specific diet and need to keep track of your meal portions.
+A kitchen scale is very useful for measuring your ingredients in grams and/or millilitres, it’s a great investment and can also help you out if you follow a specific diet and need to keep track of your meal portions.
 
 ![Alt text](<kitchen scale.jpg>)

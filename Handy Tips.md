@@ -17,9 +17,9 @@ What it means is: read the full recipe from the start to the very end. You must 
 
 -	Pre-heat the oven before you put anything inside.
 -	Do not pre-heat the oven if you use yeast in your baking as that type of cake is rising along with the baking temperature.
--	Take out the baking tray from the oven before you preheat it so you don’t burn yourself when placing your cake inside.
--	Check the temperature required for your baking ingredients –  e.g. in some cases they may be fridge-cold so they work.
--	Check if you have all ingredients necessary to bake, or their substitutes. See if the steps described make sense, whether or not you need to prepare something in advance e.g. some ingredients must be fridge-cold for the recipe to work so you need to know that beforehand.
+-	Take out the baking tray from the oven before you pre-heat it so you don’t burn yourself when placing your cake inside.
+-	Check the temperature required for your baking ingredients –  e.g. some ingredients must be fridge-cold for the recipe to work so you need to know that beforehand.
+-	Check if you have all ingredients necessary to bake, or their substitutes. See if the steps described make sense, whether or not you need to prepare something in advance.
 - Do not go rogue with the recipe. When you’re beginning to learn to bake, it’s important to learn the basic rules first before you start experimenting. Baking is based on science, as mentioned above: the cold or hot ingredients may determine a baking failure or success.
 
 
@@ -36,8 +36,8 @@ The usual temperature of baking is between 180 C/365 F and 200 C/392 F. However,
 
 **The temperature of your ingredients**
 
-If your ingredients don’t have the right temperature your batter might be too thick or too runny. Below you will read about the possible temperature options you can come across:
+If your ingredients don’t have the right temperature, your batter might be too thick or too runny. Below you will read about the possible temperature options you can come across:
 
 -	Some recipes will ask you to heat up or melt your ingredients.
--	Other recipes call for a room temperature which means you take out your eggs, butter, etc and let it warm up for 30 minutes on your kitchen counter.
+-	Other recipes call for a room temperature which means you take out your eggs, butter, etc and let them warm up for 30 minutes on your kitchen counter.
 -	You may also be asked to use cold, refrigerated ingredients such as butter or eggs which means you only take them out from the fridge when it’s time to add them to the dough.
