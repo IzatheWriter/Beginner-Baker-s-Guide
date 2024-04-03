@@ -10,9 +10,9 @@ The following sources were consulted while creating this guide:
 
 **Articles and blogs:**
 
-Flour substitutes: [https://www.bbcgoodfood.com/howto/guide/best-flour-substitutions] 
+Flour substitutes:(https://www.bbcgoodfood.com/howto/guide/best-flour-substitutions)
 
-Milk substitutes and the ingredients proportions: [https://www.delish.com/cooking/a38422869/whole-milk-substitutes-for-baking/]
+Milk substitutes and the ingredients proportions: https://www.delish.com/cooking/a38422869/whole-milk-substitutes-for-baking/
 
 Egg substitutes: https://www.pccmarkets.com/taste/2013-03/egg_substitutes/
 
