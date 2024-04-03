@@ -13,8 +13,10 @@ This Beginner Baker’s Guide will give you an insight into the basics of baking
 
 If you want to jump straight into the recipes, click below:
 
-[link to the muffins recipe]
-[link to the biscuits recipe]
+[Chocolate Muffins Recipe](https://izathewriter.github.io/Beginner-Baker-s-Guide/Chocolate%20Muffins%20Recipe.html)
+
+[Butter Biscuits Recipe](https://izathewriter.github.io/Beginner-Baker-s-Guide/Butter%20Biscuits%20Recipe.html)
+
 
 If you want to learn more about the basics, keep on reading for just a few more lines.
 
