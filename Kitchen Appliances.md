@@ -1,7 +1,8 @@
 ---
 title: Kitchen Appliances
 layout: default
-nav_order: 6
+parent: Tools
+nav_order: 1
 ---
 
 
