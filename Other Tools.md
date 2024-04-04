@@ -1,7 +1,8 @@
 ---
 title: Other Tools
 layout: default
-nav_order: 9
+parent: Tools
+nav_order: 4
 ---
 
 

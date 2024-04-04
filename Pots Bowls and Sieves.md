@@ -1,7 +1,8 @@
 ---
 title: Pots Bowls and Sieves
 layout: default
-nav_order: 8
+parent: Tools
+nav_order: 3
 ---
 
 
