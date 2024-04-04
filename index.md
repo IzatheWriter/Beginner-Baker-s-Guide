@@ -9,15 +9,15 @@ nav_order: 1
 
 If you would like to start baking or are looking for a quick guide to bake something simple but delicious, then you’re in the right place!
 
-This Beginner Baker’s Guide will give you an insight into the basics of baking and a chance to try out two simple recipes for *chocolate muffins* and *butter biscuits*. 
+This Beginner Baker’s Guide will give you an insight into the basics of baking and a chance to try out two simple recipes for chocolate muffins and butter biscuits.
 
 You will learn about the following:
 
 1. The usual ingredients used for baking.
 2. The substitutes for these ingredients if you’re an allergic or follow a specific diet. 
-3. Some handy baking tips which might elevate even the simplest recipe but also prevent you from making beginner's mistakes.
+3. Some handy baking tips which might elevate even the simplest recipe but also prevent you from making typical beginner's mistakes.
 4. Tools which are necessary and useful for baking. 
-5. How to put your knowledge into practice by testing out two simple recipes.
+5. How to put your knowledge into practice by testing out two simple recipes: for [chocolate muffins](https://izathewriter.github.io/Beginner-Baker-s-Guide/Chocolate%20Muffins%20Recipe.html) and [butter biscuits](https://izathewriter.github.io/Beginner-Baker-s-Guide/Butter%20Biscuits%20Recipe.html).
 
 Follow the sections on the left side of the page and enjoy this baking adventure! 
 
