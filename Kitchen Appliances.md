@@ -1,8 +1,8 @@
 ---
-title: Kitchen Appliances
+title: Tools
 layout: default
-parent: Tools
 nav_order: 1
+has_children: true
 ---
 
 
