@@ -12,9 +12,8 @@ nav_order: 3
 
 Sometimes the recipe will ask you to melt the butter, honey, cream or heat milk. The best and the most convenient way is to use a saucepan or a small pot of your choice.
 
-<p style="text-align: right"><img src="small size_saucepan_pexels.jpg"></p>
 
-![Alt text](<small size_saucepan_pexels.jpg>)
+![Alt text](<small size_saucepan_pexels-1.jpg>)
 
 
 **Sieve**
