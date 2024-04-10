@@ -21,5 +21,6 @@ You will learn about the following:
 
 Follow the sections on the left side of the page and enjoy this baking adventure! 
 
+<p style="text-align: right"><img src="small_size_young_girl_cooking.jpg"></p>
 
 ![Alt text](small_size_young_girl_cooking.jpg)
