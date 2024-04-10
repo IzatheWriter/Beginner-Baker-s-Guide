@@ -29,5 +29,5 @@ A list of the baking tools:
 
 You can read more about each tool in the separate sections of this guide.
 
-<p style="text-align: right"><img src="small_size_baking_tools.jpg"></p>
+<p style="text-align: center"><img src="small_size_baking_tools.jpg"></p>
 
