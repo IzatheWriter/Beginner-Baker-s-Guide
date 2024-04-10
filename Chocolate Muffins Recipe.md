@@ -15,8 +15,8 @@ There are many variations of the muffins – they can go well with fruits, cream
 - Baking time: 20-25 minutes
 - Level: easy
 
+<p style="text-align: center"><img src="small_size_chocolate_muffins3jpg.jpg"></p>
 
-![Alt text](small_size_chocolate_muffins3jpg.jpg)
 
 
 **A list of ingredients**
