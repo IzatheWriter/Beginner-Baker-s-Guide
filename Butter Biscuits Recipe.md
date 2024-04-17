@@ -9,53 +9,60 @@ nav_order: 11
 <h1>Butter biscuits</h1>
 
 
-This really simple biscuit recipe will teach you how to make basic shortcrust pastry. It takes a bit more time but the results are delicious. These cookies are served without any additions, but it’s possible to add cocoa to the dough or top it with some marmalade. You can read about these additions in the recipe modifications section. 
+This really simple biscuit recipe will teach you how to make basic shortcrust pastry. It takes a bit more time but the results are delicious. These cookies are served without any additions, but it’s possible to add cocoa to the dough or top it with some marmalade. You can read about these additions in the recipe modifications section at the bottom of this page. 
 
 ![Alt text](small_size_butter_biscuits.jpg)
 
-
-**A list of ingredients**
-
-- 250 g all-purpose flour + some extra flour for the bakeboard (50 g)
-- 90 g powdered sugar
-- 1 egg yolk fridge cold
-- 190 g fridge cold butter
-
-**Possible additions:** cocoa, marmalade
-
-**Tools:** two small bowls, table and tea spoons, one large bowl, a bakeboard, a rolling pin, cling film, biscuit cutters or a glass, a sieve, baking paper.
 
 - This recipe makes: around 3 trays of biscuits.
 - Preparation and baking time: 1,5 h
 - Baking time: 10-20 minutes
 - Level: easy
 
+**A list of ingredients**
+
+- 250 g all-purpose flour + some extra flour for the bakeboard (50 g)
+- 90 g powdered sugar
+- 1 egg yolk (fridge cold)
+- 190 g butter (fridge cold)
+
+**Possible additions:** cocoa, marmalade
+
+**Tools:** two small bowls, table and tea spoons, one large bowl, a bakeboard, a rolling pin, cling film, biscuit cutters or a glass, a sieve, baking paper.
+
+
+**Preparation before you bake:** 
+
+- your egg and butter must be fridge cold before you use them so follow the first steps in the recipe instructions and do not take them out until it calls for these ingredients
+- do not preheat the oven yet - you will first prepare the biscuit dough which must rest in the fridge before it is baked
+- prepare all the tools listed above - if you don't have a bakeboard, you can roll the dough on the kitchen counter but clean it well beforehand (Note: make sure the surface is clean but dry.)
+- make sure you have at least two oven trays - this recipe makes 3 trays of biscuits, so when one batch is ready, you can bake another one and use the first tray for your third batch 
 
 **Instructions**
 
-1.	Place the bakeboard on the kitchen counter. If you don’t have a bakeboard, just use  the kitchen counter, but make sure to clean the surface beforehand.
-2.	Sift the flour on the bakeboard.
-3.	Sift the powdered sugar on the flour.
-4.	Take the butter out of the fridge and place it in the middle of your flour and sugar pile. 
-5.	Use a sharp knife to cut butter into small pieces.
-6.	Prepare two small bowls to separate your egg white from the yolk.
-7.	Take the egg from the fridge. It must be cold.
-8.	Wash your egg in the cold water, crack the egg over a small bowl, take a table spoon to catch the yolk and drop it into the second small bowl. You can also grab the yolk in your palm if it doesn’t want to get into the spoon.
-9.	Do not throw away the egg white, you can use it for an omelette or scrambled eggs.
-10.	Add your egg yolk to the dough on the bakeboard.
-11.	Mold the dough with your hands until it forms a solid and greasy in touch ball. The dough should not be falling apart. You should get a nice yellowish colour at the end of this process.
-12.	When the dough is formed, wrap it in cling film, put in a large bowl and place in the fridge for 1 hour.
-13.	Sprinkle a bit of flower on the bakeboard and spread it evenly so the dough doesn’t stick to the board. You can also use cling film instead of flour or wrap the rolling pin in it.
-14.	After 1 hour take out the dough from the fridge and put it back on the bakeboard.
-15.	Preheat the oven to 180 C/365 F. It will take just enough time to heat up, meanwhile you will be forming the biscuits from the dough.
-16.	Take out the oven tray and put the baking paper on it.
-17.	Cut a piece of dough from the ball. It can be from around 2 cm to 2,5 cm thick. Use a rolling pin and roll the piece of the dough flat on the bakeboard. The flat shortcrust should be 5 mm thin. 
+1.	Place the bakeboard on the kitchen counter.
+2.	Sift flour and powdered sugar on the bakeboard.
+3.	Take the butter out of the fridge and place it in the middle of your flour and sugar pile. 
+4. Use a sharp knife to cut butter into small pieces.
+5. Take the egg out from the fridge and wash it in the cold water.
+6. Prepare two small bowls to separate your egg white from the yolk.
+7. Crack the egg over a small bowl, take a table spoon to catch the yolk and drop it into the second small bowl. (Note: You can also grab the yolk in your palm if it doesn’t want to get into the spoon.)
+8. Do not throw away the egg white, you can use it for an omelette or scrambled eggs.
+9.	Add your egg yolk to the pile on the bakeboard.
+10.	Mold the dough with your hands until it forms a solid and greasy in touch ball. The dough should not be falling apart. You should get a nice yellowish colour at the end of this process.
+11.	When the dough is formed, wrap it in cling film, put in a large bowl and place in the fridge for 1 hour.
+12.	Sprinkle a bit of flower on the bakeboard and spread it evenly so the dough doesn’t stick to the board. (Note: You can also use cling film instead of flour or wrap the rolling pin in it.)
+13.	After 1 hour take out the dough from the fridge and put it back on the bakeboard.
+14.	Take out the oven tray and put the baking paper on it.
+15.	Preheat the oven to 180 C/365 F. (Note: It will take just enough time to heat up, meanwhile you will be forming the biscuits from the dough.)
+16.	Cut a piece of dough. It can be from around 2 cm to 2,5 cm thick. 
+17. Use a rolling pin and roll the piece of the dough flat on the bakeboard. The flat shortcrust should be 5 mm thin. 
 18.	Cut out round shapes with a glass or biscuit cutters and put them on the baking tray.
 19.	 If there are bits of the dough left, just stick them back into the main dough mass and repeat the rolling out process.
-20.	When the tray is filled with the biscuits, put it into the pre-heated oven. 
-21.	Bake for 10-20 minutes. Top and bottom heat function.
-22.	Depending on your oven it’s good to check the biscuits after the first 10 minutes and see if they have changed their colour. They should be slightly brown. It’s easy to burn them, so keep checking.
-23.	When the biscuits are ready, take them out of the oven and let them cool down for the next 15 minutes.
+20.	When the tray is filled with the biscuits, put it into the pre-heated oven.
+21.	Bake for 10-20 minutes, top and bottom heat function, in the middle oven zone. (Note: do not open the oven door in the first 10 minutes of baking.)
+22.	Depending on your oven, it’s good to check the biscuits after the first 10 minutes and see if they are changing their colour. They should be slightly brown when they are ready. It’s easy to burn them, so keep checking.
+23.	When the biscuits are ready, take them out of the oven and let them cool down on the oven tray for the next 15 minutes.
 24.	Place the biscuits on the plate and enjoy the taste of your hard work.
 
 
