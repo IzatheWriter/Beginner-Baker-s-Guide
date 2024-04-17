@@ -16,7 +16,7 @@ There are many variations of the muffins – they can go well with fruits, cream
 - Level: easy
 
 
-<p style="text-align: center"><img src="smaller_ size_chocolate_muffins2-1.jpg"></p>
+<p style="text-align: center"><img src="SMALLEST2chocolate_muffins2.jpg"></p>
 
 
 **A list of ingredients**
