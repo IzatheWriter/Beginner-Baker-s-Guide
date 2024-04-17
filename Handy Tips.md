@@ -39,5 +39,5 @@ The usual temperature of baking is between 180 C/365 F and 200 C/392 F. However,
 If your ingredients don’t have the right temperature, your batter might be too thick or too runny. Below you will read about the possible temperature options you can come across:
 
 -	Some recipes will ask you to heat up or melt your ingredients.
--	Other recipes call for a room temperature which means you take out your eggs, butter, etc and let them warm up for 30 minutes on your kitchen counter.
--	You may also be asked to use cold, refrigerated ingredients such as butter or eggs which means you only take them out from the fridge when it’s time to add them to the dough.
+-	Other recipes call for a room temperature which means you take out your eggs, butter, etc and let them warm up for 15-20 minutes on your kitchen counter.
+-	You may also be asked to use cold refrigerated ingredients such as butter or eggs which means you only take them out from the fridge when it’s time to add them to the dough.

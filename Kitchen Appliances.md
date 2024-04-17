@@ -17,7 +17,7 @@ This is the fastest and the most convenient way to combine all ingredients. It w
 **Blender**
 
 If you’re baking a small cake or the recipe calls for combining a small number of ingredients before adding them to the dough, a blender is a useful tool. You can also use it for crushing nuts, mashing chickpeas or bananas. 
-However, this tool does not have enough power to knead a dough, if it’s bigger, or bread dough.
+However, this tool does not have enough power to knead a dough (if it’s more massive) or bread dough.
 
 If you don't owe any of these tools, you can check out the links below and purchase some good quality kitchen appliances:
 

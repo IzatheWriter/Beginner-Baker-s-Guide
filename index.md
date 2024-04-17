@@ -7,11 +7,11 @@ nav_order: 1
 
 <h1>Beginner Baker's Guide</h1>
 
-If you would like to start baking or are looking for a quick guide to bake something simple but delicious, then you’re in the right place!
+If you'd like to start baking or are looking for a quick guide to bake something simple but delicious, then you’re in the right place!
 
 This Beginner Baker’s Guide will give you an insight into the basics of baking and a chance to try out two simple recipes for chocolate muffins and butter biscuits.
 
-You will learn about the following:
+You'll learn about the following:
 
 1. The usual ingredients used for baking.
 2. The substitutes for these ingredients if you’re an allergic or follow a specific diet. 
