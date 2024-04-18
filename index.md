@@ -17,7 +17,7 @@ You'll learn about the following:
 2. The substitutes for these ingredients if you’re an allergic or follow a specific diet. 
 3. Some handy baking tips which might elevate even the simplest recipe but also prevent you from making typical beginner's mistakes.
 4. Tools which are necessary and useful for baking. 
-5. How to put your knowledge into practice by testing out two simple recipes: for [chocolate muffins](https://izathewriter.github.io/Beginner-Baker-s-Guide/Chocolate%20Muffins%20Recipe.html) and [butter biscuits](https://izathewriter.github.io/Beginner-Baker-s-Guide/Butter%20Biscuits%20Recipe.html).
+5. How to put your knowledge into practice by testing out two simple recipes for: [chocolate muffins](https://izathewriter.github.io/Beginner-Baker-s-Guide/Chocolate%20Muffins%20Recipe.html) and [butter biscuits](https://izathewriter.github.io/Beginner-Baker-s-Guide/Butter%20Biscuits%20Recipe.html).
 
 Follow the sections on the left side of the page and enjoy this baking adventure! 
 
