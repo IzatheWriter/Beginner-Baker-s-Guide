@@ -31,9 +31,9 @@ The following sources were consulted while creating this guide:
 
 3. Vitamix Blender - Super Pro 750 Copper Metal Finish: [https://www.bestblender.pl/blender-vitamix-professional-series-750/](https://www.bestblender.pl/blender-vitamix-professional-series-750/) 
 
-3. Hurom Blender - Hurom Hexa Power High Speed Blender: [https://www.hurom.com/products/hurom-hexa-power-high-speed-blender](https://www.hurom.com/products/hurom-hexa-power-high-speed-blender) 
+4. Hurom Blender - Hurom Hexa Power High Speed Blender: [https://www.hurom.com/products/hurom-hexa-power-high-speed-blender](https://www.hurom.com/products/hurom-hexa-power-high-speed-blender) 
 
-4. Muffin pan silicone cup holders: [https://www.aliexpress.com/item/1005005986393187.html](https://www.aliexpress.com/item/1005005986393187.html) 
+5. Muffin pan silicone cup holders: [https://www.aliexpress.com/item/1005005986393187.html](https://www.aliexpress.com/item/1005005986393187.html) 
 
 **All the images used for this guide were taken from Pexels:**
 
