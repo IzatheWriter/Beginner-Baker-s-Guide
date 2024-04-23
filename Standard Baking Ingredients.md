@@ -7,7 +7,7 @@ nav_order: 2
 
 <h1>Standard Baking Ingredients</h1>
 
-Below you will find a list of products which are used for baking any type of cake or pastry:
+Below you'll find a list of products which are used for baking any type of cake or pastry:
 
 -	flour
 -	potato starch

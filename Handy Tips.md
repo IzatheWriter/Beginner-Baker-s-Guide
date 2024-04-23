@@ -8,7 +8,7 @@ nav_order: 4
 <h1>Handy Tips for Baking</h1>
 
 
-In this section you will learn about some useful tips which will prevent you from making a lot of beginner mistakes and also elevate the quality of your baked goods.
+In this section you'll learn about some useful tips which will prevent you from making a lot of beginner mistakes and also elevate the quality of your baked goods.
 
 **Respect the baking process**
 
@@ -16,11 +16,11 @@ What it means is: read the full recipe from the start to the very end. You must 
 
 
 -	Pre-heat the oven before you put anything inside.
--	Do not pre-heat the oven if you use yeast in your baking as that type of cake is rising along with the baking temperature.
--	Take out the baking tray from the oven before you pre-heat it so you don’t burn yourself when placing your cake inside.
--	Check the temperature required for your baking ingredients –  e.g. some ingredients must be fridge-cold for the recipe to work so you need to know that beforehand.
+-	Don't pre-heat the oven if you use yeast in your baking as that type of cake is rising along with the baking temperature.
+-	Take out the baking tray from the oven before you pre-heat it, so you don’t burn yourself when placing your cake inside.
+-	Check the temperature required for your baking ingredients –  e.g. some ingredients must be fridge-cold for the recipe to work, so you need to know that beforehand.
 -	Check if you have all ingredients necessary to bake, or their substitutes. See if the steps described make sense, whether or not you need to prepare something in advance.
-- Do not go rogue with the recipe. When you’re beginning to learn to bake, it’s important to learn the basic rules first before you start experimenting. Baking is based on science, as mentioned above: the cold or hot ingredients may determine a baking failure or success.
+- Don't go rogue with the recipe. When you’re beginning to learn to bake, it’s important to learn the basic rules first before you start experimenting. Baking is based on science, as mentioned above: the cold or hot ingredients may determine a baking failure or success.
 
 
 **Oven** 
@@ -29,15 +29,15 @@ Each oven model has different temperature settings and the same cake which is ba
 
 The usual temperature of baking is between 180 C/365 F and 200 C/392 F. However, when baking something for the first time:
 
--	Check your cake – see if it’s rising or not, look at the colour (it should be turning brown) – do not open the oven door in the first minutes of baking, just look from the outside. 
+-	Check your cake – see if it’s rising or not, look at the colour (it should be turning brown) – don't open the oven door in the first minutes of baking, just look from the outside. 
 -	When the cake looks ready, you can open the oven door and insert a toothpick or a paring knife into the centre of the cake to see if the crumb has set. The toothpick or knife should come out dry if your cake is ready.
--	If the cake is not ready just give it a few more minutes and note down the REAL and final time of baking which would work best for your oven.
+-	If the cake isn't ready, just give it a few more minutes and note down the REAL and final time of baking which would work best for your oven.
 
 
 **The temperature of your ingredients**
 
-If your ingredients don’t have the right temperature, your batter might be too thick or too runny. Below you will read about the possible temperature options you can come across:
+If your ingredients don’t have the right temperature, your batter might be too thick or too runny. Below you'll read about the possible temperature options you can come across:
 
 -	Some recipes will ask you to heat up or melt your ingredients.
 -	Other recipes call for a room temperature which means you take out your eggs, butter, etc and let them warm up for 15-20 minutes on your kitchen counter.
--	You may also be asked to use cold refrigerated ingredients such as butter or eggs which means you only take them out from the fridge when it’s time to add them to the dough.
+-	You may also be asked to use cold refrigerated ingredients such as butter or eggs, which means you only take them out from the fridge when it’s time to add them to the dough.

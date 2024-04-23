@@ -12,17 +12,17 @@ nav_order: 4
 
 **Bakeboard** 
 
-When you bake you will probably form the dough on the bakeboard. This will work best for the shortcrust pie or biscuits. If you don’t have one, you can also do the same on the kitchen counter. Make sure you clean it first so there is no dust or breadcrumbs in your pie!
+When you bake you'll probably form the dough on the bakeboard. This will work best for the shortcrust pie or biscuits. If you don’t have one, you can also do the same on the kitchen counter. Make sure you clean it first so there's no dust or breadcrumbs in your pie!
 
 
 **Rolling pin** 
 
-Most probably you have one wooden rolling pin at home. If not, or you’re on holidays but still want to bake something, you can always use a plastic bottle of water or a bottle of wine. Just remove the label and wash the bottle as it will have contact with food.
+Most probably you have one wooden rolling pin at home. If not, or you’re on holidays, but still want to bake something, you can always use a plastic bottle of water or a bottle of wine. Just remove the label and wash the bottle as it'll have contact with food.
 
 
 **A teaspoon and a table spoon**
 
-They are often used to measure the ingredients properly, especially when you don't owe a kitchen scale. Many recipes still use this way of measuring ingredients.
+They're often used to measure the ingredients properly, especially when you don't owe a kitchen scale. Many recipes still use this way of measuring ingredients.
 
 **A wooden / silicone spatula**
 
@@ -30,7 +30,7 @@ Whichever tool you use to mix your ingredients it would be fine. However, wood a
 
 **Baking paper**
 
-When you bake something you will most probably use a baking pan, tin or an oven tray. Regardless your choice, before you put anything inside you should put in baking paper first. It will prevent your cake from sticking into the surface or even burn. 
+When you bake something you'll most probably use a baking pan, tin or an oven tray. Regardless your choice, before you put anything inside you should put in baking paper first. It'll prevent your cake from sticking into the surface or even burn. 
 
 If you’re using silicone forms, then the baking paper isn’t necessary. 
 If you don’t want to use baking paper, you can also grease the baking tin with oil or butter and it should prevent the cake from sticking too.
@@ -42,4 +42,4 @@ Cling film is useful if you work with a sticky type of dough. You can use it on 
 
 **A toothpick or a paring knife**
 
-It may sound funny, but these simple tools will allow you to check if your cake is fully baked. It may happen that the cake does change the colour into brown and looks ready from the outside but inside it is still raw. Hence, you will need a toothpick or a knife to insert inside the cake. If it comes out dry, the cake is baked. If you can see some bits of raw dough on it then it means the cake needs a few more minutes in the oven. Just wait and use the clean knife or toothpick again to check the cake.
+It may sound funny, but these simple tools will allow you to check if your cake is fully baked. It may happen that the cake changes the colour into brown and looks ready from the outside but inside it's still raw. Hence, you'll need a toothpick or a knife to insert inside the cake. If it comes out dry, the cake is baked. If you can see some bits of raw dough on it, then it means the cake needs a few more minutes in the oven. Just wait and use the clean knife or toothpick again to check the cake.

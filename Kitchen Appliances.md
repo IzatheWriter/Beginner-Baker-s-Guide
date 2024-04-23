@@ -12,12 +12,12 @@ nav_order: 1
 
 **Mixer**
 
-This is the fastest and the most convenient way to combine all ingredients. It will save you a lot of muscle work and time. The order and the speed of mixing your ingredients will vary depending on the cake you are baking. The recipe should provide you with all the guidelines.
+This is the fastest and the most convenient way to combine all ingredients. It'll save you a lot of muscle work and time. The order and the speed of mixing your ingredients will vary depending on the cake you're baking. The recipe should provide you with all the guidelines.
 
 **Blender**
 
 If you’re baking a small cake or the recipe calls for combining a small number of ingredients before adding them to the dough, a blender is a useful tool. You can also use it for crushing nuts, mashing chickpeas or bananas. 
-However, this tool does not have enough power to knead a dough (if it’s more massive) or bread dough.
+However, this tool doesn't have enough power to knead a dough (if it’s more massive) or bread dough.
 
 If you don't owe any of these tools, you can check out the links below and purchase some good quality kitchen appliances:
 

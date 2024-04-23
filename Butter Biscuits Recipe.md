@@ -35,7 +35,7 @@ This really simple biscuit recipe will teach you how to make basic shortcrust pa
 
 - Your egg and butter must be fridge cold before you use them so follow the first steps in the recipe instructions and don't take them out until it calls for these ingredients.
 - Don't preheat the oven yet - you'll first prepare the biscuit dough which must rest in the fridge before it's baked.
-- Prepare all the tools listed above - if you don't have a bakeboard, you can roll the dough on the kitchen counter but clean it well beforehand (Note: make sure the surface is clean and dry.)
+- Prepare all the tools listed above - if you don't have a bakeboard, you can roll the dough on the kitchen counter, but clean it well beforehand (Note: make sure the surface is clean and dry.)
 - Make sure you have at least two oven trays - this recipe makes 3 trays of biscuits, so when one batch is ready, you can bake another one and use the first tray for your third batch. 
 
 **Instructions**
@@ -57,13 +57,13 @@ This really simple biscuit recipe will teach you how to make basic shortcrust pa
 12.	Sprinkle a bit of flower on the bakeboard and spread it evenly so the dough doesn’t stick to the board. (Note: You can also use cling film instead of flour or wrap the rolling pin in it.)
 13.	After 1 hour take out the dough from the fridge and put it back on the bakeboard.
 14.	Take out the oven tray and put the baking paper on it.
-15.	Preheat the oven to 180 C/365 F. (Note: It will take just enough time to heat up, meanwhile you will be forming the biscuits from the dough.)
+15.	Preheat the oven to 180 C/365 F. (Note: It'll take just enough time to heat up, meanwhile you'll be forming the biscuits from the dough.)
 16.	Cut a piece of dough. It can be from around 2 cm to 2,5 cm thick. 
 17. Use a rolling pin and roll the piece of the dough flat on the bakeboard. The flat shortcrust should be 5 mm thin. 
 18.	Cut out round shapes with a glass or biscuit cutters and put them on the baking tray.
 19.	 If there are bits of the dough left, just stick them back into the main dough mass and repeat the rolling out process.
 20.	When the tray is filled with the biscuits, put it into the pre-heated oven.
-21.	Bake for 10-20 minutes, top and bottom heat function, in the middle oven zone. (Note: do not open the oven door in the first 10 minutes of baking.)
+21.	Bake for 10-20 minutes, top and bottom heat function, in the middle oven zone. (Note: don't open the oven door in the first 10 minutes of baking.)
 22.	Depending on your oven, it’s good to check the biscuits after the first 10 minutes and see if they're changing their colour. They should be slightly brown when they're ready. It’s easy to burn them, so keep checking.
 23.	When the biscuits are ready, take them out of the oven and let them cool down on the oven tray for the next 15 minutes.
 24.	Place the biscuits on the plate and enjoy the taste of your hard work.
@@ -78,7 +78,7 @@ If you don’t like plain butter biscuits, you can use cocoa for a chocolate fla
 
 **Marmalade**
 
-Another possibility is to use marmalade. When you're cutting out biscuits from the dough, you can make an indentation in the middle of the biscuit and put a little marmalade inside. DO NOT USE JAM because it’s not dense enough and the fruit juices will evaporate in high temperature. 
+Another possibility is to use marmalade. When you're cutting out biscuits from the dough, you can make an indentation in the middle of the biscuit and put a little marmalade inside. DON'T USE JAM because it’s not dense enough and the fruit juices will evaporate in high temperature. 
 
 **Decorations**
 

@@ -7,12 +7,12 @@ nav_order: 3
 
 <h1>Ingredients Substitutes</h1>
 
-If you are allergic to some of the ingredients, follow a specific diet (e.g. vegan) or just want to bake a healthier version of your cake, have a look at some general guidelines for ingredients substitutes.
+If you're allergic to some of the ingredients, follow a specific diet (e.g. vegan) or just want to bake a healthier version of your cake, have a look at some general guidelines for ingredients substitutes.
 
 
 **FLOUR** – the usual standard flour is all-purpose flour, self-rising flour, wheat flour. 
 
-If you are vegan you can also try: 
+If you are vegan, you can also try: 
 
 - chickpea flour
 - almond flour 
@@ -40,7 +40,7 @@ If you don’t drink milk at all, you can use:
 
 - yoghurt (natural, Greek)
 - buttercream
-- sour cream.
+- sour cream
 
 You can read about how much of each replaced product you should use in your recipe: [Milk Substitutes for Baking](https://www.delish.com/cooking/a38422869/whole-milk-substitutes-for-baking/) 
 
@@ -71,7 +71,7 @@ Mind the ratio here, though, as it affects the level of sweetness.
 Each egg substitute works best for a different type of cake and you can read about it on this page: [Egg Substitutes](https://www.pccmarkets.com/taste/2013-03/egg_substitutes/) 
 
 
-**FAT** – it is essential in baking in that it affects the richness, flavour, moisture and tenderness of the cake. You shouldn't skip it. It's also not always possible to replace some types of fat. If you bake butter biscuits, there's no way to make them using e.g. olive oil instead.
+**FAT** – it's essential in baking in that it affects the richness, flavour, moisture and tenderness of the cake. You shouldn't skip it. It's also not always possible to replace some types of fat. If you bake butter biscuits, there's no way to make them using e.g. olive oil instead.
 
 You can use the following fat options in your recipe:
 

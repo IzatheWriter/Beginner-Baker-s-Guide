@@ -19,13 +19,13 @@ There are many types of muffin pans in the market.  I personally recommend the o
 You can purchase the above set here: [AliExpress Silicone Muffin Cups](https://www.aliexpress.com/item/1005005986393187.htm).
 
 
-There are also full silicone muffin holders. They are wobbly, though, so make sure to place them on the baking tray before you put the dough inside (as shown in the image below).
+There are also full silicone muffin holders. They're wobbly, though, so make sure to place them on the baking tray before you put the dough inside (as shown in the image below).
 
 ![Alt text](<small size_silicone_muffin_pan_pexels.jpg>)
 
 **A baking form – light not dark**
 
-It is best to use ligth colour baking forms rather than the dark. Dark colours conduct more heat which can make your baked goods bake much faster than you want. It’s often better to use the light coloured ones. 
+It's best to use ligth colour baking forms rather than the dark. Dark colours conduct more heat which can make your baked goods bake much faster than you want. It’s often better to use the light coloured ones. 
 
 
 ![Alt text](<small size_light_baking_form.jpg>)

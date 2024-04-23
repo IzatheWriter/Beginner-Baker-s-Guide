@@ -9,7 +9,7 @@ has_children: true
 <h1>Tools</h1>
 
 
-This section discusses various tools you will need to bake something. They will make your baking faster and save you a lot of muscle work. However, you don’t need all of them and if something isn’t essential, you will be given an alternative solution. 
+This section discusses various tools you'll need to bake something. They'll make your baking faster and save you a lot of muscle work. However, you don’t need all of them and if something isn’t essential, you'll be given an alternative solution. 
 
 A list of the baking tools:
 

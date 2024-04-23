@@ -46,7 +46,7 @@ There are many variations of the muffins – they can go well with fruits, cream
 1. Take one large bowl. Sift flour, icing sugar, cocoa and soda (or baking powder). Add a pinch of salt.
 2. Use the table spoon to mix all dry ingredients. Put the bowl aside.
 3. Take the saucepan (or a small pot) and put in the butter.
-4. Melt the butter into liquid but stir it all the time with a spoon so it doesn’t burn. When the butter is melted, put it aside to cool down.
+4. Melt the butter into liquid, but stir it all the time with a spoon so it doesn’t burn. When the butter is melted, put it aside to cool down.
 5. Take the second large bowl. Crack in eggs, add in yoghurt and pour in cooled down melted butter.
 6. Use the mixer to combine all ingredients. (Note: if you don't have a mixer you can use a table spoon.)
 7. Take the first bowl with dry ingredients and add them gradually to mix in with the wet ingredients. 
@@ -58,10 +58,10 @@ There are many variations of the muffins – they can go well with fruits, cream
 13. Place one piece of chocolate in it and cover it with the dough to fill the entire cup.
 14. Repeat for every cup.
 15. When you fill in the entire muffin pan, put it in the pre-heated (180 C) oven.
-16. Bake for around 20-25 minutes. Top and bottom heat function, in the middle zone of the oven. Do not open the oven door in the first 20 minutes of baking.
+16. Bake for around 20-25 minutes. Top and bottom heat function, in the middle zone of the oven. Don't open the oven door in the first 20 minutes of baking.
 17. Only after the first 20 minutes you can insert a toothpick or a paring knife into the centre of the chosen muffin to see if the crumb has set. The toothpick or knife should come out dry if the muffins are ready.
 18. Take the muffins out from the oven and leave them for around 15 minutes in the pan to cool down.
-19. When they cool down, take them out of the pan onto a plate. They are ready to eat.
+19. When they cool down, take them out of the pan onto a plate. They're ready to eat.
 
 **Possible modifications**
 
