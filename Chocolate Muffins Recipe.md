@@ -10,7 +10,7 @@ nav_order: 10
 
 There are many variations of the muffins – they can go well with fruits, cream cheese or any other sweet additions. This recipe focuses on chocolate muffins.
 
-- This recipe serves: 12 muffins.
+- This recipe serves: 12 muffins
 - Preparation time: 10 minutes
 - Baking time: 20-25 minutes
 - Level: easy
@@ -36,10 +36,10 @@ There are many variations of the muffins – they can go well with fruits, cream
 
 **Preparation before you bake:** 
 
-- eggs, yoghurt and milk should hava a room temperature so take them out of the fridge 15 minutes before you start making the batter
-- butter can be fridge cold because you will melt it later in the process
-- preheat the oven to 180 C/365 F. (Note: It will take just enough time to heat, meanwhile you will prepare the muffin batter.)
-- if you opted for a metal muffin pan without the silicon cups, you should grease the pan with oil or butter before you put in the batter into the cups so the muffins don't stick to the pan while baking
+- Eggs, yoghurt and milk should hava a room temperature so take them out of the fridge 15 minutes before you start making the batter.
+- Butter can be fridge cold because you will melt it later in the process.
+- Preheat the oven to 180 C/365 F. (Note: It will take just enough time to heat, meanwhile you will prepare the muffin batter.)
+- If you opted for a metal muffin pan without the silicon cups, you should grease the pan with oil or butter before you put in the batter into the cups so the muffins don't stick to the pan while baking.
 
 **Instructions**
 

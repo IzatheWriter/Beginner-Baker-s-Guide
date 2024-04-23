@@ -35,7 +35,7 @@ This really simple biscuit recipe will teach you how to make basic shortcrust pa
 
 - your egg and butter must be fridge cold before you use them so follow the first steps in the recipe instructions and do not take them out until it calls for these ingredients
 - do not preheat the oven yet - you will first prepare the biscuit dough which must rest in the fridge before it is baked
-- prepare all the tools listed above - if you don't have a bakeboard, you can roll the dough on the kitchen counter but clean it well beforehand (Note: make sure the surface is clean but dry.)
+- prepare all the tools listed above - if you don't have a bakeboard, you can roll the dough on the kitchen counter but clean it well beforehand (Note: make sure the surface is clean and dry.)
 - make sure you have at least two oven trays - this recipe makes 3 trays of biscuits, so when one batch is ready, you can bake another one and use the first tray for your third batch 
 
 **Instructions**
@@ -49,9 +49,12 @@ This really simple biscuit recipe will teach you how to make basic shortcrust pa
 7. Crack the egg over a small bowl, take a table spoon to catch the yolk and drop it into the second small bowl. (Note: You can also grab the yolk in your palm if it doesn’t want to get into the spoon.)
 8. Do not throw away the egg white, you can use it for an omelette or scrambled eggs.
 9.	Add your egg yolk to the pile on the bakeboard.
-10.	Mold the dough with your hands until it forms a solid and greasy in touch ball. The dough should not be falling apart. You should get a nice yellowish colour at the end of this process.
+10.	Mold the dough with your hands until it forms a solid and greasy ball in touch. The dough should not be falling apart. You should get a nice yellowish colour at the end of this process.
 11.	When the dough is formed, wrap it in cling film, put in a large bowl and place in the fridge for 1 hour.
 12.	Sprinkle a bit of flower on the bakeboard and spread it evenly so the dough doesn’t stick to the board. (Note: You can also use cling film instead of flour or wrap the rolling pin in it.)
+
+**After 1 hour**
+
 13.	After 1 hour take out the dough from the fridge and put it back on the bakeboard.
 14.	Take out the oven tray and put the baking paper on it.
 15.	Preheat the oven to 180 C/365 F. (Note: It will take just enough time to heat up, meanwhile you will be forming the biscuits from the dough.)
