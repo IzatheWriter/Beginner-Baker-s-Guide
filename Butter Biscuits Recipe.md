@@ -14,7 +14,7 @@ This really simple biscuit recipe will teach you how to make basic shortcrust pa
 ![Alt text](small_size_butter_biscuits.jpg)
 
 
-- This recipe makes: around 3 trays of biscuits.
+- This recipe makes: around 3 trays of biscuits
 - Preparation and baking time: 1,5 h
 - Baking time: 10-20 minutes
 - Level: easy
