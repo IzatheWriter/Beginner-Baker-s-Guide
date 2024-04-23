@@ -6,7 +6,7 @@ nav_order: 12
 
 <h1>Bibliography</h1>
 
-The following sources were consulted while creating this guide:
+<h2>The following sources were consulted while creating this guide:</h2>
 
 **Articles and blogs:**
 
