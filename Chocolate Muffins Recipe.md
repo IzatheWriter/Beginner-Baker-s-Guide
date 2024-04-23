@@ -36,9 +36,9 @@ There are many variations of the muffins – they can go well with fruits, cream
 
 **Preparation before you bake:** 
 
-- Eggs, yoghurt and milk should hava a room temperature so take them out of the fridge 15 minutes before you start making the batter.
-- Butter can be fridge cold because you will melt it later in the process.
-- Preheat the oven to 180 C/365 F. (Note: It will take just enough time to heat, meanwhile you will prepare the muffin batter.)
+- Eggs, yoghurt and milk should have a room temperature so take them out of the fridge 15 minutes before you start making the batter.
+- Butter can be fridge cold because you'll melt it later in the process.
+- Preheat the oven to 180 C/365 F. (Note: It'll take just enough time to heat, meanwhile you'll prepare the muffin batter.)
 - If you opted for a metal muffin pan without the silicon cups, you should grease the pan with oil or butter before you put in the batter into the cups so the muffins don't stick to the pan while baking.
 
 **Instructions**
@@ -46,15 +46,15 @@ There are many variations of the muffins – they can go well with fruits, cream
 1. Take one large bowl. Sift flour, icing sugar, cocoa and soda (or baking powder). Add a pinch of salt.
 2. Use the table spoon to mix all dry ingredients. Put the bowl aside.
 3. Take the saucepan (or a small pot) and put in the butter.
-4. Melt the butter into liquid but stir it all the time with a spoon so it doesn’t burn. When the butter is melted put it aside to cool down.
+4. Melt the butter into liquid but stir it all the time with a spoon so it doesn’t burn. When the butter is melted, put it aside to cool down.
 5. Take the second large bowl. Crack in eggs, add in yoghurt and pour in cooled down melted butter.
-6. Use the mixer to combine all ingredients.(Note: if you don't have a mixer you can use a table spoon.)
+6. Use the mixer to combine all ingredients. (Note: if you don't have a mixer you can use a table spoon.)
 7. Take the first bowl with dry ingredients and add them gradually to mix in with the wet ingredients. 
 8. You should get a slightly moist dough when all ingredients are well mixed. (Note: If the dough is too wet, you can add a bit of flour. If it’s too dry you can add a bit of water or milk – 2 or 3 table spoons.)
 9. Leave the dough to rest for 5-10 minutes.
 10. Take the chocolate bar of your choice and break it into pieces.
 11. Take out the muffin pan.
-12. Take a table spoon and only fill HALF of each muffin cup.
+12. Take a table spoon and fill only HALF of each muffin cup.
 13. Place one piece of chocolate in it and cover it with the dough to fill the entire cup.
 14. Repeat for every cup.
 15. When you fill in the entire muffin pan, put it in the pre-heated (180 C) oven.
@@ -69,6 +69,6 @@ This recipe can be easily modified.
 
 You can substitute cocoa powder and chocolate with fruits – blueberries or strawberries work best for muffins, but feel free to use any other favourite fruit of your choice.
 
-If you stick to chocolate you can also try combining two or three types of chocolate e.g. white pieces inside the muffin and dark chocolate chips on top or the other way round.
+If you stick to chocolate, you can also try combining two or three types of chocolate e.g. white pieces inside the muffin and dark chocolate chips on top or the other way round.
 
 Any changes you make will only slightly affect the texture and the flavour of the dough. I invite you to experiment and find your favourite version. 

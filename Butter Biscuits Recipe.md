@@ -33,10 +33,10 @@ This really simple biscuit recipe will teach you how to make basic shortcrust pa
 
 **Preparation before you bake:** 
 
-- your egg and butter must be fridge cold before you use them so follow the first steps in the recipe instructions and do not take them out until it calls for these ingredients
-- do not preheat the oven yet - you will first prepare the biscuit dough which must rest in the fridge before it is baked
-- prepare all the tools listed above - if you don't have a bakeboard, you can roll the dough on the kitchen counter but clean it well beforehand (Note: make sure the surface is clean and dry.)
-- make sure you have at least two oven trays - this recipe makes 3 trays of biscuits, so when one batch is ready, you can bake another one and use the first tray for your third batch 
+- Your egg and butter must be fridge cold before you use them so follow the first steps in the recipe instructions and don't take them out until it calls for these ingredients.
+- Don't preheat the oven yet - you'll first prepare the biscuit dough which must rest in the fridge before it's baked.
+- Prepare all the tools listed above - if you don't have a bakeboard, you can roll the dough on the kitchen counter but clean it well beforehand (Note: make sure the surface is clean and dry.)
+- Make sure you have at least two oven trays - this recipe makes 3 trays of biscuits, so when one batch is ready, you can bake another one and use the first tray for your third batch. 
 
 **Instructions**
 
@@ -47,14 +47,14 @@ This really simple biscuit recipe will teach you how to make basic shortcrust pa
 5. Take the egg out from the fridge and wash it in the cold water.
 6. Prepare two small bowls to separate your egg white from the yolk.
 7. Crack the egg over a small bowl, take a table spoon to catch the yolk and drop it into the second small bowl. (Note: You can also grab the yolk in your palm if it doesn’t want to get into the spoon.)
-8. Do not throw away the egg white, you can use it for an omelette or scrambled eggs.
+8. Don't throw away the egg white, you can use it for an omelette or scrambled eggs.
 9.	Add your egg yolk to the pile on the bakeboard.
-10.	Mold the dough with your hands until it forms a solid and greasy ball in touch. The dough should not be falling apart. You should get a nice yellowish colour at the end of this process.
+10.	Mold the dough with your hands until it forms a solid and greasy ball in touch. The dough shouldn't be falling apart. You should get a nice yellowish colour at the end of this process.
 11.	When the dough is formed, wrap it in cling film, put in a large bowl and place in the fridge for 1 hour.
-12.	Sprinkle a bit of flower on the bakeboard and spread it evenly so the dough doesn’t stick to the board. (Note: You can also use cling film instead of flour or wrap the rolling pin in it.)
 
 **After 1 hour**
 
+12.	Sprinkle a bit of flower on the bakeboard and spread it evenly so the dough doesn’t stick to the board. (Note: You can also use cling film instead of flour or wrap the rolling pin in it.)
 13.	After 1 hour take out the dough from the fridge and put it back on the bakeboard.
 14.	Take out the oven tray and put the baking paper on it.
 15.	Preheat the oven to 180 C/365 F. (Note: It will take just enough time to heat up, meanwhile you will be forming the biscuits from the dough.)
@@ -64,7 +64,7 @@ This really simple biscuit recipe will teach you how to make basic shortcrust pa
 19.	 If there are bits of the dough left, just stick them back into the main dough mass and repeat the rolling out process.
 20.	When the tray is filled with the biscuits, put it into the pre-heated oven.
 21.	Bake for 10-20 minutes, top and bottom heat function, in the middle oven zone. (Note: do not open the oven door in the first 10 minutes of baking.)
-22.	Depending on your oven, it’s good to check the biscuits after the first 10 minutes and see if they are changing their colour. They should be slightly brown when they are ready. It’s easy to burn them, so keep checking.
+22.	Depending on your oven, it’s good to check the biscuits after the first 10 minutes and see if they're changing their colour. They should be slightly brown when they're ready. It’s easy to burn them, so keep checking.
 23.	When the biscuits are ready, take them out of the oven and let them cool down on the oven tray for the next 15 minutes.
 24.	Place the biscuits on the plate and enjoy the taste of your hard work.
 
@@ -78,7 +78,7 @@ If you don’t like plain butter biscuits, you can use cocoa for a chocolate fla
 
 **Marmalade**
 
-Another possibility is to use marmalade. When you are cutting out biscuits from the dough, you can make an indentation in the middle of the biscuit and put a little marmalade inside. DO NOT USE JAM because it’s not dense enough and the fruit juices will evaporate in high temperature. 
+Another possibility is to use marmalade. When you're cutting out biscuits from the dough, you can make an indentation in the middle of the biscuit and put a little marmalade inside. DO NOT USE JAM because it’s not dense enough and the fruit juices will evaporate in high temperature. 
 
 **Decorations**
 
