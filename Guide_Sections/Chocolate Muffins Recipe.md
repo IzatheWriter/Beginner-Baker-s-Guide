@@ -15,7 +15,6 @@ There are many variations of the muffins – they can go well with fruits, cream
 - Baking time: 20-25 minutes
 - Level: easy
 
-
 <p style="text-align: center"><img src="SMALLEST2chocolate_muffins2.jpg"></p>
 
 

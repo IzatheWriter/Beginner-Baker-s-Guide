@@ -11,7 +11,8 @@ nav_order: 11
 
 This really simple biscuit recipe will teach you how to make basic shortcrust pastry. It takes a bit more time but the results are delicious. These cookies are served without any additions, but it’s possible to add cocoa to the dough or top it with some marmalade. You can read about these additions in the recipe modifications section at the bottom of this page. 
 
-![Alt text](small_size_butter_biscuits.jpg)
+
+<p style="text-align: left"><img src="small_size_butter_biscuits.jpg"></p>
 
 
 - This recipe makes: around 3 trays of biscuits
