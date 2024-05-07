@@ -30,7 +30,7 @@ Whichever tool you use to mix your ingredients it would be fine. However, wood a
 
 **Baking paper**
 
-When you bake something you'll most probably use a baking pan, tin or an oven tray. Regardless your choice, before you put anything inside you should put in baking paper first. It'll prevent your cake from sticking into the surface or even burn. 
+When you bake something you'll most probably use a baking pan, tin or an oven tray. Regardless of your choice, before you put anything inside, you should put in baking paper first. It'll prevent your cake from sticking into the surface or even burn. 
 
 If you’re using silicone forms, then the baking paper isn’t necessary. 
 If you don’t want to use baking paper, you can also grease the baking tin with oil or butter and it should prevent the cake from sticking too.

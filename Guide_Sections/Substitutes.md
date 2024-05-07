@@ -28,7 +28,7 @@ If you are vegan, you can also try:
 You can read more about it under this link: [Best Flour Substitutions](https://www.bbcgoodfood.com/howto/guide/best-flour-substitutions)
 
 
-**MILK** – there are PLENTY types of milk so depending on your dietary preferences there are:
+**MILK** – there are plenty of types of milk so depending on your dietary preferences there are:
 
 - cow milk
 - soya milk

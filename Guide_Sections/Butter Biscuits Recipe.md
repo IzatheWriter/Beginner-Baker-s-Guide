@@ -47,27 +47,26 @@ This really simple biscuit recipe will teach you how to make basic shortcrust pa
 4. Use a sharp knife to cut butter into small pieces.
 5. Take the egg out from the fridge and wash it in the cold water.
 6. Prepare two small bowls to separate your egg white from the yolk.
-7. Crack the egg over a small bowl, take a table spoon to catch the yolk and drop it into the second small bowl. (Note: You can also grab the yolk in your palm if it doesn’t want to get into the spoon.)
-8. Don't throw away the egg white, you can use it for an omelette or scrambled eggs.
-9.	Add your egg yolk to the pile on the bakeboard.
-10.	Mold the dough with your hands until it forms a solid and greasy ball in touch. The dough shouldn't be falling apart. You should get a nice yellowish colour at the end of this process.
-11.	When the dough is formed, wrap it in cling film, put in a large bowl and place in the fridge for 1 hour.
+7. Crack the egg over a small bowl, take a table spoon to catch the yolk and drop it into the second small bowl. You can also grab the yolk in your palm if it doesn’t want to get into the spoon. (Note: Don't throw away the egg white, you can use it for an omelette or scrambled eggs.)
+8.	Add your egg yolk to the pile on the bakeboard.
+9.	Mold the dough with your hands until it forms a solid and greasy ball in touch. The dough shouldn't be falling apart. You should get a nice yellowish colour at the end of this process.
+10.	When the dough is formed, wrap it in cling film, put in a large bowl and place in the fridge for 1 hour.
 
 **After 1 hour**
 
-12.	Sprinkle a bit of flower on the bakeboard and spread it evenly so the dough doesn’t stick to the board. (Note: You can also use cling film instead of flour or wrap the rolling pin in it.)
-13.	After 1 hour take out the dough from the fridge and put it back on the bakeboard.
-14.	Take out the oven tray and put the baking paper on it.
-15.	Preheat the oven to 180 C/365 F. (Note: It'll take just enough time to heat up, meanwhile you'll be forming the biscuits from the dough.)
-16.	Cut a piece of dough. It can be from around 2 cm to 2,5 cm thick. 
-17. Use a rolling pin and roll the piece of the dough flat on the bakeboard. The flat shortcrust should be 5 mm thin. 
-18.	Cut out round shapes with a glass or biscuit cutters and put them on the baking tray.
-19.	 If there are bits of the dough left, just stick them back into the main dough mass and repeat the rolling out process.
-20.	When the tray is filled with the biscuits, put it into the pre-heated oven.
-21.	Bake for 10-20 minutes, top and bottom heat function, in the middle oven zone. (Note: don't open the oven door in the first 10 minutes of baking.)
-22.	Depending on your oven, it’s good to check the biscuits after the first 10 minutes and see if they're changing their colour. They should be slightly brown when they're ready. It’s easy to burn them, so keep checking.
-23.	When the biscuits are ready, take them out of the oven and let them cool down on the oven tray for the next 15 minutes.
-24.	Place the biscuits on the plate and enjoy the taste of your hard work.
+11.	Sprinkle a bit of flower on the bakeboard and spread it evenly so the dough doesn’t stick to the board. (Note: You can also use cling film instead of flour or wrap the rolling pin in it.)
+12.	After 1 hour take out the dough from the fridge and put it back on the bakeboard.
+13.	Take out the oven tray and put the baking paper on it.
+14.	Preheat the oven to 180 C/365 F. (Note: It'll take just enough time to heat up, meanwhile you'll be forming the biscuits from the dough.)
+15.	Cut a piece of dough. It can be from around 2 cm to 2,5 cm thick. 
+16. Use a rolling pin and roll the piece of the dough flat on the bakeboard. The flat shortcrust should be 5 mm thin. 
+17.	Cut out round shapes with a glass or biscuit cutters and put them on the baking tray.
+18.	 If there are bits of the dough left, just stick them back into the main dough mass and repeat the rolling out process.
+19.	When the tray is filled with the biscuits, put it into the pre-heated oven.
+20.	Bake for 10-20 minutes, top and bottom heat function, in the middle oven zone. (Note: don't open the oven door in the first 10 minutes of baking.)
+21.	Depending on your oven, it’s good to check the biscuits after the first 10 minutes and see if they're changing their colour. They should be slightly brown when they're ready. It’s easy to burn them, so keep checking.
+22.	When the biscuits are ready, take them out of the oven and let them cool down on the oven tray for the next 15 minutes.
+23.	Place the biscuits on the plate and enjoy the taste of your hard work.
 
 
 **Possible modifications**
