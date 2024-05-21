@@ -24,7 +24,7 @@ There are also full silicone muffin holders. They're wobbly, though, so make sur
 
 **A baking form – light not dark**
 
-It's best to use ligth colour baking forms rather than the dark. Dark colours conduct more heat which can make your baked goods bake much faster than you want. It’s often better to use the light coloured ones. 
+It's best to use light colour baking forms rather than the dark. Dark colours conduct more heat which can make your baked goods bake much faster than you want. It’s often better to use the light coloured ones. 
 
 
 <p style="text-align: left"><img src="small size_light_baking_form.jpg"></p>
