@@ -13,19 +13,19 @@ This section discusses various tools you'll need to bake something. They'll make
 
 A list of the baking tools:
 
--	a mixer or blender
--	a bakeboard
--	a muffin pan or baking forms/tins
--	a saucepan
--	tall bowls
--	kitchen scale
--	tea and table spoons
--	a wooden/silicone spatula
--	a sieve
--	baking paper
--	cling film
--	a rolling pin
--	a toothpick or a paring knife
+-	A mixer or blender
+-	A bakeboard
+-	A muffin pan or baking forms/tins
+-	A saucepan
+-	Tall bowls
+-	Kitchen scale
+-	Tea and table spoons
+-	A wooden/silicone spatula
+-	A sieve
+-	Baking paper
+-	Cling film
+-	A rolling pin
+-	A toothpick or a paring knife
 
 You can read more about each tool in the separate sections of this guide.
 

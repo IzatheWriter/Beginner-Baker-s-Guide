@@ -27,7 +27,7 @@ There are many variations of the muffins – they can go well with fruits, cream
 - 120 g icing sugar
 - 50 g unsweetened natural cocoa powder
 - 1,5 teaspoon of soda or baking powder
-- a pinch of salt
+- A pinch of salt
 - 70 g chocolate (dark, white or milk)
 
 
