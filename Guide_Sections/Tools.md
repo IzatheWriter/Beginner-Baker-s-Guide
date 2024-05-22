@@ -30,4 +30,4 @@ A list of the baking tools:
 You can read more about each tool in the separate sections of this guide.
 
 
-<p style="text-align: center"><img src="small_size_baking_tools2.jpg"></p>
+<p style="text-align: left"><img src="small_size_baking_tools2.jpg"></p>
