@@ -38,7 +38,7 @@ There are many variations of the muffins – they can go well with fruits, cream
 - Eggs, yoghurt and milk should have a room temperature so take them out of the fridge 15 minutes before you start making the batter.
 - Butter can be fridge cold because you'll melt it later in the process.
 - Preheat the oven to 180 C/365 F. (Note: It'll take just enough time to heat, meanwhile you'll prepare the muffin batter.)
-- If you opted for a metal muffin pan without the silicon cups, you should grease the pan with oil or butter before you put in the batter into the cups so the muffins don't stick to the pan while baking.
+- If you opted for a metal muffin pan without the silicone cups, you should grease the pan with oil or butter before you put in the batter into the cups so the muffins don't stick to the pan while baking.
 
 **Instructions**
 
