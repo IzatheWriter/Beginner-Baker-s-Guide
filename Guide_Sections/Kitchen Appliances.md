@@ -34,4 +34,6 @@ If you don't owe any of these tools, you can check out the links below and purch
 
 A kitchen scale is very useful for measuring your ingredients in grams and/or millilitres, it’s a great investment and can also help you out if you follow a specific diet and need to keep track of your meal portions.
 
-<p style="text-align: left"><img src="kitchen scale.jpg"></p>
+![An image showing a red kitchen scale](<kitchen scale-1.jpg>)
+
+

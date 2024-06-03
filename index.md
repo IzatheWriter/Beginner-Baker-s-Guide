@@ -22,5 +22,5 @@ You'll learn about the following:
 Follow the sections on the left side of the page and enjoy this baking adventure! 
 
 
-![A young girl wearing a chef's hat](small_size_young_girl_cooking.jpg)
+![A young girl wearing a chef's hat](<small_size_young_girl_cooking.jpg>)
 
