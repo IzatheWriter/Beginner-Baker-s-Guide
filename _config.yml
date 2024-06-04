@@ -25,3 +25,5 @@ logo: "images/cookielogo.png"
 # Favicon
 favicon_ico: "images/favicon-cookie-100.png"
 
+# Supports true (default) or false
+heading_anchors: true
