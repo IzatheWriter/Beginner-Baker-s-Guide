@@ -18,3 +18,9 @@ gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "See this page on GitHub"
 gh_edit_repository: "https://github.com/IzatheWriter/BeginnerBakersGuide.git" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
+
+# Logo
+logo: "images/cupcake_logo.png"
+
+#Favicon
+favicon_ico: "images/favicon_whisker16px.png"
