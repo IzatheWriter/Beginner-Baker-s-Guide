@@ -36,7 +36,9 @@ nav_order: 12
 
 5. [Muffin pan silicone cup holders.](https://www.aliexpress.com/item/1005005986393187.html) 
 
-**All the images used for this guide were taken from Pexels:**
+**The images used for this guide were taken from:**
 
-1. [Pexels.](https://www.pexels.com/pl-pl/) 
+1. [Pexels.](https://www.pexels.com/pl-pl/)
+2. <a ref="https://www.freepik.com/icon/cupcake_594001#fromView=search&page=1&position=39&uuid=d1cd2efb-c203-4140-8e14-eda3053764db">Icon by Freepik</a> - Cupcake logo source
+3. <a target="_blank" href="https://icons8.com/icon/TxtX4ctXhrbl/whisker">Whisker</a> Favicon by <a target="_blank" href="https://icons8.com">Icons8</a> 
 
