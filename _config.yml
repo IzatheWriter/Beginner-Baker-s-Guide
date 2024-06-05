@@ -20,7 +20,7 @@ gh_edit_repository: "https://github.com/IzatheWriter/BeginnerBakersGuide.git" # 
 gh_edit_branch: "main" # the branch that your docs is served from
 
 # Logo
-logo: "/images/cupcake_logo.png"
+logo: "Beginner-Baker-s-Guide/cupcake_logo.png"
 
 #Favicon
-favicon_ico: "/images/favicon_whisker16px.png"
+favicon_ico: "Beginner-Baker-s-Guide/favicon_whisker16px.png"
